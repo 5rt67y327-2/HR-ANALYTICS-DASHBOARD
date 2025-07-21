@@ -29,7 +29,7 @@ A Power BI dashboard built to analyze and visualize HR data effectively. It high
 | File Name | Description |
 |-----------|-------------|
 | `HR_Analytics_Dashboard.pbix` | Main Power BI dashboard file |
-| `HR_Analytics.xlsm` | Excel file with macro-enabled features to analyze employee productivity |
+| `HR_Analytics.csv` | Sample HR dataset|
 | `screenshot.png` | Preview of the dashboard |
 | `README.md` | Project documentation |
 | `LICENSE` | MIT License (open source) |
